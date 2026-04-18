@@ -1,6 +1,6 @@
 # Howdy 👋 I'm Aadit
 
-#### I'm studying Computer Science at Texas A&M and enjoy building things for the web in my free time, and I recently won the Capital One Challenge at TAMUhack!
+#### I'm studying Computer Science at Texas A&M and enjoy building things for the web in my free time. I'll be interning at [Mintlify](https://mintlify.com) this summer and I recently won the Capital One Challenge at TAMUhack!
 
 #### I currently work on performance analytics & computer vision for [Texas A&M Baseball](https://12thman.com/sports/baseball/). In the past, I worked on dealer platform infrastructure at [Cox Automotive](https://www.coxautoinc.com/). 
 
